@@ -1,2 +1,2 @@
 # Lainpage
-a serial experiments lain inspired minimalistic startpage
+A Serial Experiments Lain inspired minimalistic startpage.
